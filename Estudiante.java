@@ -10,5 +10,7 @@ public class Estudiante
     }
     
     public String dimeDetalles()
+    {
+    }
  
 }
